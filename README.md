@@ -28,4 +28,11 @@ Você deverá realizar as seguintes tarefas:
 ## Estrutura Esperada do Projeto
 
 O projeto deve seguir a seguinte estrutura de pastas e arquivos:
+├── vendas.csv
+├── processar_dados.py
+├── dashboard.py
+├── requirements.txt
+├── README.md
+└── data
+    └── vendas.parquet
 
