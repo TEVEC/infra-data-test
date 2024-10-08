@@ -2,8 +2,7 @@
 
 ## Objetivo
 
-Este teste tem como objetivo avaliar os conhecimentos básicos em Python e programação, incluindo a capacidade de manipular e processar dados, gerar arquivos Parquet e desenvolver dashboards interativos com o Streamlit.
-
+Este teste tem como objetivo avaliar os conhecimentos básicos em Python e programação, incluindo a capacidade de manipular e processar dados e desenvolver dashboards com analises relevantes.
 ## Descrição
 
 Você deverá realizar as seguintes tarefas:
@@ -16,23 +15,14 @@ Você deverá realizar as seguintes tarefas:
 2. **Salvar em Formato Parquet:**
    - Após processar os dados, salve-os em um arquivo no formato **Parquet** usando pandas, PySpark ou biblioteca similar.
 
-3. **Criar um Dashboard com Streamlit:**
-   - Utilizando o Streamlit, crie um dashboard interativo com as seguintes funcionalidades:
-     - Total de vendas por categoria de produto.
-     - Evolução das vendas ao longo do tempo.
-     - Top 5 produtos mais vendidos.
-     - Análise de vendas por cliente.
-4. **Faça uma PR do seu código**
-   - Utilizar boas práticas de desenvolvimento de código e ambiente virtuais será um plus
+3. **Realize uma análise relevante com os dados**
+   -Sinta-se à vontade para realizar qualquer tipo de análise que considerar apropriada, como: clusterização, extração de características relevantes, interpolação, extrapolação, entre outros.
 
-## Estrutura Esperada do Projeto
+4. **Gere visualizações da análise utilizando a ferramenta de sua escolha**
+   -Caso necessário, adicione explicações complementares.
+   
+5. **Faça uma PR do seu código**
+   - De preferencia entregue no formato ipynb
 
-O projeto deve seguir a seguinte estrutura de pastas e arquivos:
-├── vendas.csv
-├── processar_dados.py
-├── dashboard.py
-├── requirements.txt
-├── README.md
-└── data
-    └── vendas.parquet
+
 
